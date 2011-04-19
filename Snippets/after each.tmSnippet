@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>aft</string>
+	<string>after</string>
 	<key>uuid</key>
 	<string>AE19C012-687A-43C5-B1B3-A9DF55CE2E02</string>
 </dict>
